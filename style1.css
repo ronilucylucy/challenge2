@@ -26,11 +26,17 @@ margin:0;
   align-items: center;
   justify-content: center;
   
+  
 }
 
-h2, .p1{
-  padding-left: 50px;
-}
+.text_div{align-content: center;
+display: block}
+
+.wrapped3{display: flex;
+align-items: center;
+justify-content: center;}
+
+
 
 
   ul{list-style: none;
@@ -78,5 +84,5 @@ border-radius: 50%;
 
 .container h2{color:white
 }
-.container .p1{color:green}
+.container .p1{color:hsl(75, 94%, 57%)}
 .container p{color: #878787;}
